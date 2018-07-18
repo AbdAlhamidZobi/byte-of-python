@@ -1,10 +1,12 @@
 # Translations
 
-There are many translations of the book available in different human languages, thanks to many tireless volunteers!
+<div dir="rtl">
+هناك الكثير من الترجمات المتوفرة للكتاب في لغات مختلفة، كل الشكر للمتطوعين لترجمتهم لهذا الكتاب
 
-If you want to help with these translations, please see the list of volunteers and languages below and decide if you want to start a new translation or help in existing translation projects.
+إذا كنت تريد المساعدة بترجمة هذا الكتاب، رجاء ألق نظرة على المتطوعين واللغات التي يتم العمل عليها ومن ثم قرر إذا كنت تريد ان تبدأ ترجمة جديدة او أن في تساعد أحد المشاريع القائمة
+</div>
 
-If you plan to start a new translation, please read the [Translation how-to](./translation_howto.md#translation-howto).
+إذا قررت البدء في ترجمة جديدة، تفضل بقراءة [Translation how-to](./translation_howto.md#translation-howto).
 
 ## Arabic
 
