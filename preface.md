@@ -1,16 +1,20 @@
 # <div dir="rtl">مقدمة</div>
 <div dir="rtl"> 
-Python على الأرجح انها واحدة من اللغات البرمجية القليلة التي تجمع بين القوة والبساطة. وهذا جيد للمبتدئين وكذلك الخبراء، والأكثر  اهمية من الممتع البرمجة بها. هذا الكتاب يهدف للمساعدة في تعلم هذه اللغة الرائعة ويبين كيف يمكن الانتهاء من الاشياء بسرعة وبدون تعب - "مضاد السم لمشاكلك البرمجية"
+Python على الأرجح انها واحدة من اللغات البرمجية القليلة التي تجمع بين القوة والبساطة. وهذا جيد للمبتدئين وكذلك الخبراء، والأكثر  اهمية من الممتع البرمجة بها. هذا الكتاب يهدف للمساعدة في تعلم هذه اللغة الرائعة ويبين كيف يمكن الانتهاء من الاشياء بسرعة وبدون تعب  "مضاد السم لمشاكلك البرمجية"
+<br>
 -'The Anti-venom to your programming problems'.
 
-## Who This Book Is For
+## <div dir="rtl">لمن هذا كتاب</div>
+<div dir="rtl">
+هذا الكتاب يخدم وظيفة كمرشد أو سلسلة دروس للغة برمجة<p> Python. موجه بشكل رئيسي للجدد في عالم البرمجة. وهو مفيد للمبرمجين الخبراء أيضا
 
-This book serves as a guide or tutorial to the Python programming language. It is mainly targeted at newbies. It is useful for experienced programmers as well.
+<p>كل ما تحتاج إليه من معرفة في الحواسيب هو كيفية حفظ ملفات نصية، ومن ثم يمكنك تعلم Python من هذاالكتاب. حتى لو كنت مبرمج ذا خبرة سابقة، يمكنك تعلم بايثون من هذا الكتاب
 
-The aim is that if all you know about computers is how to save text files, then you can learn Python from this book. If you have previous programming experience, then you can also learn Python from this book.
+<p>
+لو كنت تملك خبرة برمجية سابقة، ستكون متشوق لمعرفة الفرق بين Python ولغتك المفضلة - قمت بتوضيح فروق كثيرة مشابهة . تنبيه بسيط، Python ستصبح لغتك المفضلة قريبا
 
-If you do have previous programming experience, you will be interested in the differences between Python and your favorite programming language - I have highlighted many such differences. A little warning though, Python is soon going to become your favorite programming language!
-
+<div>
+  
 ## Official Website
 
 The official website of the book is {{ book.officialUrl }} where you can read the whole book online, download the latest versions of the book, [buy a printed hard copy]({{ book.buyBookUrl }}) and also send me feedback.
