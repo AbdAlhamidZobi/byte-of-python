@@ -4,14 +4,15 @@
 هناك الكثير من الترجمات المتوفرة للكتاب في لغات مختلفة، كل الشكر للمتطوعين لترجمتهم لهذا الكتاب
 
 إذا كنت تريد المساعدة بترجمة هذا الكتاب، رجاء ألق نظرة على المتطوعين واللغات التي يتم العمل عليها ومن ثم قرر إذا كنت تريد ان تبدأ ترجمة جديدة او أن في تساعد أحد المشاريع القائمة
-</div>
 
 إذا قررت البدء في ترجمة جديدة، تفضل بقراءة [Translation how-to](./translation_howto.md#translation-howto).
+</div>
 
-## Arabic
-
-Below is the link for the Arabic version. Thanks to Ashraf Ali Khalaf for translating the book, you can read the whole book online at <http://www.khaledhosny.org/byte-of-python/index.html> or you can download it from [sourceforge.net](http://downloads.sourceforge.net/omlx/byteofpython_arabic.pdf?use_mirror=osdn) for more info see <http://itwadi.com/byteofpython_arabi>.
-
+## div<dir ="rtl"> العربي </div>
+<div dir = "rtl"> 
+في الأسفل رابط للنسخة العربية. شكرا لأشرف علي خَلف لترجمته الكتاب، يمكنك قراءة الكتاب كاملا على الموقع
+<http://www.khaledhosny.org/byte-of-python/index.html> أو يمكنك تنزيله من [sourceforge.net](http://downloads.sourceforge.net/omlx/byteofpython_arabic.pdf?use_mirror=osdn) لمزيد من التفاصيل <http://itwadi.com/byteofpython_arabi>.
+</div>
 ## Azerbaijani
 
 Jahangir Shabiyev (c.shabiev@gmail.com) has volunteered to translate the book to Azerbaijani. The translation is in progress at https://www.gitbook.com/book/jahangir-sh/piton-sancmasi
