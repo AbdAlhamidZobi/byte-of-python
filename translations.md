@@ -8,11 +8,12 @@
 إذا قررت البدء في ترجمة جديدة، تفضل بقراءة [Translation how-to](./translation_howto.md#translation-howto).
 </div>
 
-## div<dir ="rtl"> العربي </div>
+## <dir ="rtl"> العربي </div>
 <div dir = "rtl"> 
 في الأسفل رابط للنسخة العربية. شكرا لأشرف علي خَلف لترجمته الكتاب، يمكنك قراءة الكتاب كاملا على الموقع
 <http://www.khaledhosny.org/byte-of-python/index.html> أو يمكنك تنزيله من [sourceforge.net](http://downloads.sourceforge.net/omlx/byteofpython_arabic.pdf?use_mirror=osdn) لمزيد من التفاصيل <http://itwadi.com/byteofpython_arabi>.
 </div>
+  
 ## Azerbaijani
 
 Jahangir Shabiyev (c.shabiev@gmail.com) has volunteered to translate the book to Azerbaijani. The translation is in progress at https://www.gitbook.com/book/jahangir-sh/piton-sancmasi
