@@ -1,6 +1,7 @@
-# Preface
-
-Python is probably one of the few programming languages which is both simple and powerful. This is good for beginners as well as for experts, and more importantly, is fun to program with. This book aims to help you learn this wonderful language and show how to get things done quickly and painlessly - in effect 'The Anti-venom to your programming problems'.
+# <div dir="rtl"></div>مقدمة
+<div dir="rtl"> 
+Python على الأرجح انها واحدة من اللغات البرمجية القليلة التي تجمع بين القوة والبساطة. وهذا جيد للمبتدئين وكذلك الخبراء، والأكثر اهمية من الممتع البرمجة بها. هذا الكتاب يهدف للمساعدة في تعلم هذه اللغة الرائعة ويبين كيف يمكن الانتهاء من الاشياء بسرعة وبدون تعب
+-'The Anti-venom to your programming problems'.
 
 ## Who This Book Is For
 
